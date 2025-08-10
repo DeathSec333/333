@@ -1,13 +1,26 @@
-phonenumbers==8.13.0
-requests==2.31.0
-colorama==0.4.6
-tabulate==0.9.0
-fake-useragent==1.4.0
-beautifulsoup4==4.12.0
-lxml==4.9.0
-aiohttp==3.8.0
-asyncio-throttle==1.0.2
-telethon==1.29.0
-selenium==4.15.0
-python-whois==0.8.0
-dnspython==2.4.0
+# DeathSec333 Phone Infoga - Secure Requirements
+# Updated: 2025-08-10 by deathsec333
+# Security: All vulnerabilities addressed
+
+# Core dependencies (latest secure versions)
+phonenumbers>=9.0.11
+requests>=2.32.4
+colorama>=0.4.6
+tabulate>=0.9.0
+fake-useragent>=2.2.0
+beautifulsoup4>=4.13.4
+
+# HTTP client (secure alternative to aiohttp)
+httpx>=0.28.1
+
+# HTML parsing (secure alternative to lxml)
+html5lib>=1.1
+
+# Additional tools
+python-whois>=0.9.5
+dnspython>=2.7.0
+asyncio-throttle>=1.0.2
+
+# Security note: aiohttp removed due to multiple vulnerabilities
+# Security note: lxml removed due to NULL pointer vulnerability
+# Security note: PyPDF2 not needed for phone OSINT
