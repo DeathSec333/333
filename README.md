@@ -295,3 +295,55 @@ Security researchers worldwide
 
 🔥 DeathSec333 Phone Infoga - Advanced Mobile OSINT Framework
 Use responsibly and legally only!
+
+## 🌟 GitHub Repository
+
+[![GitHub stars](https://img.shields.io/github/stars/deathsec333/DeathSec333-Phone-Infoga?style=social)](https://github.com/deathsec333/DeathSec333-Phone-Infoga/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/deathsec333/DeathSec333-Phone-Infoga?style=social)](https://github.com/deathsec333/DeathSec333-Phone-Infoga/network)
+[![GitHub issues](https://img.shields.io/github/issues/deathsec333/DeathSec333-Phone-Infoga)](https://github.com/deathsec333/DeathSec333-Phone-Infoga/issues)
+[![GitHub license](https://img.shields.io/github/license/deathsec333/DeathSec333-Phone-Infoga)](https://github.com/deathsec333/DeathSec333-Phone-Infoga/blob/main/LICENSE)
+
+### 🚀 Quick Start from GitHub
+
+```bash
+# Clone the repository
+git clone https://github.com/deathsec333/DeathSec333-Phone-Infoga.git
+cd DeathSec333-Phone-Infoga
+
+# Install dependencies
+pip install -r requirements_termux.txt
+
+# Run your first scan
+python deathsec_main.py -n "+YOUR_NUMBER" -v
+
+📈 Project Stats
+
+
+Language: Python 3.8+
+
+Platform: Termux/Linux optimized
+
+Modules: 6 OSINT modules
+
+Reports: 4 formats (HTML, JSON, CSV, TXT)
+
+Performance: Sub-6 second targeted scans
+
+Creator: deathsec333
+
+
+🔗 Links
+
+
+Repository: https://github.com/deathsec333/DeathSec333-Phone-Infoga
+
+
+Issues: https://github.com/deathsec333/DeathSec333-Phone-Infoga/issues
+
+
+Releases: https://github.com/deathsec333/DeathSec333-Phone-Infoga/releases
+
+
+
+⭐ If you find this tool useful, please give it a star on GitHub!
+🔥 Created with ❤️ by deathsec333
